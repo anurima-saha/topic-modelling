@@ -75,7 +75,7 @@ Highlighted terms in each cluster after incorporating c-values gives us the foll
 #### Dynamic Bokeh Plot
 ![image](https://github.com/user-attachments/assets/5b575bec-009d-4236-9749-a7b61a49fd4a)
 
-For interactive feature and further details please refer to notebook and project reoprt. A few examples have been highlighted below.
+For interactive feature and further details please refer to notebook and [project reoprt](https://github.com/anurima-saha/topic-modelling/blob/main/Project%20Report.pdf). A few examples have been highlighted below.
 
 1. Presidential Election Fraud
    <br>![image](https://github.com/user-attachments/assets/b2e55eaf-a7fb-403e-8ed5-13cbc2b6f891)
